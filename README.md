@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_raunak_seth_" target="blank"><img src="https://img.shields.io/twitter/follow/_raunak_seth_?logo=twitter&style=for-the-badge" alt="_raunak_seth_" /></a> </p>
 
-- 💬 Ask me about **Kotlin,Java,Android**
+- 💬 Ask me about **Kotlin, Java, Android**
 
 - 📫 How to reach me **https://www.linkedin.com/in/raunak-seth-4482b021a/**
 
